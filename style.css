@@ -1,0 +1,80 @@
+body {
+    font-family: Bebas Neue;
+}
+.post {
+    background-color: rgb(50, 45, 45);
+    padding: 15px 45px 30px 45px;
+    width: 965px;
+    margin: 20px;
+    position: relative;
+}
+.link-nav{
+    text-decoration: none;
+    color: white;
+}
+.link-header{
+    color: white;
+    position: relative;
+    
+}
+.post2 {
+    background-color: rgb(50, 45, 45);
+    padding: 15px 45px 30px 45px;
+    width: 965px;
+    height: 1000px;
+    margin: 20px;
+    position: relative;
+}
+.ugh{
+    padding-left: 200px;
+    height: 50px;
+    background-color: yellowgreen;
+    width: 855px;
+    margin: 20px;
+}
+.uu{
+    padding-left: 400px;
+}
+.uu2{
+    padding-left: 120px;
+    color: white;
+}
+.social{
+    padding-left: 30px;
+}
+.gg{
+    width: 150px;
+    height: 155px;
+    position: relative;
+    left: 700px;
+    bottom:1080px ;
+    
+}
+h1{
+    color: white;
+}
+.gg3{
+    width: 210px;
+    height: 140px;
+    bottom: 290px;
+    left: 30px;
+    position: relative;
+}
+.link-header2{
+    border: 2px solid rgb(68, 68, 68);
+    padding: 5px 45px 35px 45px;
+    width: 180px;
+    height: 40px;
+    margin: 45px 45px 30px 145px;
+    border-radius: 15px;
+    background-color: rgb(68, 68, 68);
+}
+body{
+    background-color: rgb(26, 26, 26);
+}
+.ggg2{
+    display: flex;
+    flex-display:row;
+    width: 1000px;
+    height: 600px;
+}
